@@ -14,4 +14,12 @@ Welcome to my data portfolio! Here, I document my projects, case studies, and pr
 
 ---
 
+## 🛠️ Skills
 
+| Area | Tools & Technologies |
+|---|---|
+| **Querying** | SQL, PostgreSQL, MySQL|
+| **Analysis** | Python, Pandas, NumPy, Seaborn, Matplotlib, EDA, Data Cleaning |
+| **Visualization** | Power BI, DAX, Data Modeling, KPI Dashboards |
+| **Spreadsheet** | Microsoft Excel, Pivot Tables, Data Analysis |
+| **Development Tools** | Jupyter Notebook, VS Code, Git, GitHub |
